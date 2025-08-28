@@ -1,0 +1,10 @@
+using UnityEngine;
+
+namespace My3DGame.GameData
+{
+	public enum $ENUM$
+	{
+		None = -1,
+		$DATA$
+	}
+}

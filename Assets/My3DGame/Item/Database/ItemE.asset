@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace2f940f5c45c54a9efa1388a81f688, type: 3}
+  m_Name: ItemE
+  m_EditorClassIdentifier: 
+  data:
+    id: 4
+    name: ItemE
+    buffs:
+    - stat: 5
+      value: 0
+      min: 50
+      max: 100
+  type: 8
+  stackable: 1
+  shopPrice: 600
+  icon: {fileID: 21300000, guid: bb9b99dcf780cd34885d36b7e2ae9cbc, type: 3}
+  modelPrefab: {fileID: 0}
+  description: This item name is ItemE

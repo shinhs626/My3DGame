@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace2f940f5c45c54a9efa1388a81f688, type: 3}
+  m_Name: ItemC
+  m_EditorClassIdentifier: 
+  data:
+    id: 2
+    name: ItemC
+    buffs:
+    - stat: 2
+      value: 0
+      min: 6
+      max: 9
+    - stat: 1
+      value: 0
+      min: 7
+      max: 10
+  type: 3
+  stackable: 0
+  shopPrice: 1500
+  icon: {fileID: 21300000, guid: 55049abc6472bdf47b9a306cba347ef0, type: 3}
+  modelPrefab: {fileID: 0}
+  description: 'This item name is ItemC
+
+'
